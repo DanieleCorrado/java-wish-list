@@ -1,4 +1,4 @@
-package org.lesson.java;
+package org.lesson.java.present;
 
 public class Present {
 
